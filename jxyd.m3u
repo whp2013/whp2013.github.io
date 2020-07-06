@@ -311,9 +311,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225750/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉州台[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225679/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Ytv1[1920*1080]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",永修一台[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",YTV2[1920*1080]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",永修二台[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",公共频道[1920*1080]
 http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
