@@ -7,9 +7,9 @@ http://111.13.111.166:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1
 http://117.169.120.160:8080/live/fhchinese/1.m3u8
 #EXTINF:-1,凤凰资讯
 http://117.169.120.160:8080/live/fhzixun/1.m3u8
-#EXTINF:-1,凤凰资讯1080
-http://219.147.162.117:65530/live/fhzw/index.m3u8
 #EXTINF:-1,凤凰中文1080
+http://219.147.162.117:65530/live/fhzw/index.m3u8
+#EXTINF:-1,凤凰资讯1080
 http://219.147.162.117:65530/live/fhzx/index.m3u
 #EXTINF:-1,凤凰中文
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
